@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+As a User, I can see the restaurants' list, so that i can choose one
+As a User, I can see the restaurants' details, so that i book one
+As a User, I can book a restaurant, so that i can see the booking details

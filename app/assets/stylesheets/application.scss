@@ -10,3 +10,12 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+
+body {
+  background-color: aliceblue;
+}
+
+.navbar {
+  background-color: aliceblue !important;
+}
